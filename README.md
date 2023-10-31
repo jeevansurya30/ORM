@@ -47,7 +47,8 @@ class PlayerAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Alt text](<Screenshot 2023-10-28 154119.png>)
+![image](https://github.com/jeevansurya30/ORM/assets/129417865/e9dd8774-ac34-462f-bc83-4590692e081b)
+
 
 
 ## RESULT
