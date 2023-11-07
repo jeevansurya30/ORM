@@ -47,9 +47,11 @@ class PlayerAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Alt text](<Screenshot 2023-11-07 115904.png>)
+![image](https://github.com/jeevansurya30/ORM/assets/129417865/0de59dea-3c13-4f17-9fbf-4db08ba06187)
 
-![Alt text](<Screenshot 2023-11-07 115923.png>)
+![image](https://github.com/jeevansurya30/ORM/assets/129417865/08266ccf-d198-40fc-ad5a-8bb583aed84a)
+
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
